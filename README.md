@@ -1,5 +1,9 @@
 # SE-Jury
 
+<div align="center">
+  <img src="framework.png" alt="Overview of SE-Jury" width="70%" />
+</div>
+
 ## Installation
 
 ```bash
