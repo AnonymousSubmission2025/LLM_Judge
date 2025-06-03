@@ -1,4 +1,4 @@
-# SE-Jury
+# SE-Jury: An LLM-as-Ensemble-Judge Metric for Narrowing the Gap with Human Evaluation in SE
 
 <div align="center">
   <img src="framwork.png" alt="Overview of SE-Jury" width="70%" />
