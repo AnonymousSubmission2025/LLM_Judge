@@ -3,6 +3,9 @@
 ## Installation
 
 ```bash
+git clone https://github.com/AnonymousSubmission2025/LLM_Judge
+cd LLM_Judge/
+
 conda create -n se_jury python=3.11
 conda activate se_jury
 pip install crewai
