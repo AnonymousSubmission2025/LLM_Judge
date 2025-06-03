@@ -6,6 +6,8 @@
 conda create -n se_jury python=3.11
 conda activate se_jury
 pip install crewai
+
+unzip se_jury.zip
 cd se_jury
 pip install -e ./
 ```
