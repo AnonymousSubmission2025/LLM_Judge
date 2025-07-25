@@ -7,7 +7,7 @@
 </div>
 
 
-As requested, we compared SE-Jury with its base LLM, GPT-4o-mini, used without any additional design. 
+As suggested, we compared SE-Jury with its base LLM, GPT-4o-mini, used without any additional design. 
 In this setup, GPT-4o-mini received a simple prompt below, allowing us to assess its raw performance.
 
 ```
