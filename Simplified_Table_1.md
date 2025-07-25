@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="simplified_results_of_Table_1.PNG" alt="Simplified Table 1" width="100%" />
+  <img src="simplified_results_of_Table_1.PNG" alt="Simplified Table 1" width="80%" />
 </div>
 
 
