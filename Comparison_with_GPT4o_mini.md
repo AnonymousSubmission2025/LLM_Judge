@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="compare_with_gpt4omini.PNG" alt="Comparison between SE-Jury and GPT-4o-mini alone" width="70%" />
+  <img src="compare_with_gpt4omini.PNG" alt="Comparison between SE-Jury and GPT-4o-mini alone" width="100%" />
 </div>
 
 As requested, we compared SE-Jury with its base LLM, GPT-4o-mini, used without any additional design. 
