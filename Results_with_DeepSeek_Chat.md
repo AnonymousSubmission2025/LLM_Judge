@@ -4,7 +4,7 @@
   <img src="cost_of_poluar_LLMs.PNG" alt="Cost of Popular LLMs" width="70%" />
 </div>
 
-We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o on HumanEval [1], making it a highly suitable choice.
+We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs provided by OpenAI, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o on HumanEval [1], making it a highly suitable choice.
 
 In response to the request, we conducted additional experiments using DeepSeek-chat, a popular and state-of-the-art LLM that is also highly cost-effective (as shown in the table above).
 
