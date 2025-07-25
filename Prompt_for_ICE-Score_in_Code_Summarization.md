@@ -1,4 +1,4 @@
-## Reference-Free Prompt
+## Reference-Free Prompt for ICE-Score in Code Summarization Task
 
 ```
 You will be given the code summary for a code snippet.
@@ -31,6 +31,8 @@ Evaluation Form:
 Content Adequacy (scores ONLY):
 
 ```
+
+## Reference-Enhanced Prompt for ICE-Score in Code Summarization Task
 
 ```
 You will be given the code summary for a code snippet.
