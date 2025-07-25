@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="compare_with_codejudge.PNG" alt="Comparison between SE-Jury and CodeJudge" width="100%" />
+  <img src="compare_with_codejudge.PNG" alt="Comparison between SE-Jury and CodeJudge" width="60%" />
 </div>
 
 As requested, we compared CodeJudge [1] and our SE-Jury on CodeJudge’s evaluation datasets: HumanEval-X, CoNaLa, and APPS.
