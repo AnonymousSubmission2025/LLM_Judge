@@ -7,7 +7,7 @@
 Below are the results of experiments using different LLMs.
 
 <div align="center">
-  <img src="deepseek_results.PNG" alt="SE-Jury with Another LLM" width="90%" />
+  <img src="deepseek_results.PNG" alt="SE-Jury with Another LLM" width="100%" />
 </div>
 
 The results show that SE-Jury achieves comparable or even better performance with DeepSeek-chat compared to GPT-4o-mini, demonstrating the method’s consistent effectiveness across state-of-the-art LLMs.
