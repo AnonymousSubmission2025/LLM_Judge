@@ -4,7 +4,6 @@
 
 ## SE-Jury with Another Popular LLM DeepSeek-chat
 
-Below are the results of experiments using different LLMs.
 
 <div align="center">
   <img src="deepseek_results.PNG" alt="SE-Jury with Another LLM" width="100%" />
