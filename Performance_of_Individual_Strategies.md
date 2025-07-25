@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="individual_strategies_results.PNG" alt="Comparison between SE-Jury and CodeJudge" width="60%" />
+  <img src="individual_strategies_results.PNG" alt="Comparison between SE-Jury and CodeJudge" width="100%" />
 </div>
 
 The table above presents the performance of the five individual strategies (S1, S2, S3, S4, and S5) used in our approach.
