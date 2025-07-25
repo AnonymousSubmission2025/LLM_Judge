@@ -23,9 +23,11 @@ We can see that GPT-4o-mini is significantly more cost-effective than other late
 <br> 
 In response to the request, we conducted additional experiments using DeepSeek-chat (the corresponding API name is "deepseek/deepseek-chat"), a popular and state-of-the-art LLM that is also highly cost-effective. DeepSeek-Chat is even more affordable than GPT-4o-mini (US$0.07 vs. US$0.15 per million input tokens), as shown in the table at the top of this page.
 
-The results show that SE-Jury achieves comparable or even better performance with DeepSeek-chat compared to GPT-4o-mini, demonstrating the method’s consistent effectiveness across state-of-the-art LLMs.
+<br>
+The results show that SE-Jury achieves comparable performance using DeepSeek-chat as the underlying LLM compared to using GPT-4o-mini, demonstrating the method’s consistent effectiveness across state-of-the-art LLMs.
 
-Due to time constraints during the rebuttal phase, we managed to report results with DeepSeek-chat. If allowed a major revision, we would be happy to conduct broader experiments using more LLMs.
+<br>
+Due to time constraints during the rebuttal phase, we only managed to report results with DeepSeek-chat. If allowed a major revision, we would be happy to conduct broader experiments using more LLMs.
 
 
 ## Reference
