@@ -6,13 +6,14 @@
 
 We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs provided by OpenAI, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o on HumanEval [1], making it a highly suitable choice.
 
-In response to the request, we conducted additional experiments using DeepSeek-chat, a popular and state-of-the-art LLM that is also highly cost-effective (as shown in the table above).
+
 
 
 
 
 ## SE-Jury with Another Popular LLM DeepSeek-chat
 
+In response to the request, we conducted additional experiments using DeepSeek-chat, a popular and state-of-the-art LLM that is also highly cost-effective (as shown in the table above).
 
 <div align="center">
   <img src="deepseek_results.PNG" alt="SE-Jury with Another LLM" width="100%" />
