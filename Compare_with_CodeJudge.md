@@ -12,8 +12,8 @@ As shown in the table above, the results indicate that SE-Jury consistently outp
 Additionally, SE-Jury supports a broader range of tasks, including APR and code summarization, which CodeJudge does not support.
 
 Note that we did not compare with CodeJudge on BigCodeBench due to difficulties in reproducing CodeJudge's data construction process for this dataset, as detailed documentation was lacking. 
-Additionally, the authors did not provide output files for this dataset, though they did share outputs for the others. 
-Given the limited time during the rebuttal period, we were unable to complete this comparison, but we would be happy to include it in a future major revision.
+Additionally, the authors did not provide output files for this dataset, though they did share outputs for the other datasets (i.e., HumanEval-X, CoNaLa, and APPS). 
+Given the limited time during the rebuttal period, we were unable to complete this comparison, but we would be happy to include it in a future major revision if possible.
 
 
 ## Reference
