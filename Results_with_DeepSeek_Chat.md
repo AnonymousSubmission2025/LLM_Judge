@@ -1,7 +1,7 @@
 ## Our Reason to Choose GPT-4o-mini 
 
 <div align="center">
-  <img src="cost_of_poluar_LLMs.PNG" alt="Cost of Popular LLMs" width="100%" />
+  <img src="cost_of_poluar_LLMs.PNG" alt="Cost of Popular LLMs" width="70%" />
 </div>
 
 We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o on HumanEval [1], making it a highly suitable choice.
