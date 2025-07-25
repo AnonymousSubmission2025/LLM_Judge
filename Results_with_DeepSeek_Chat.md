@@ -8,12 +8,9 @@ We can see that GPT-4o-mini is significantly more cost-effective than other late
 
 
 
-
-
-
 ## SE-Jury with Another Popular LLM DeepSeek-chat
 
-In response to the request, we conducted additional experiments using DeepSeek-chat, a popular and state-of-the-art LLM that is also highly cost-effective (as shown in the table above).
+In response to the request, we conducted additional experiments using DeepSeek-chat (the corresponding API name is "deepseek/deepseek-chat"), a popular and state-of-the-art LLM that is also highly cost-effective (as shown in the table above).
 
 <div align="center">
   <img src="deepseek_results.PNG" alt="SE-Jury with Another LLM" width="100%" />
