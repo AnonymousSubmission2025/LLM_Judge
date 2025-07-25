@@ -8,7 +8,7 @@
 
 
 <br>
-In the simplified Table I above, we only reported the non-parametric Spearman correlation. 
+We only reported the non-parametric Spearman correlation, in the simplified Table I above, to make the results easier to understand. 
 
 
 We found that the findings remain consistent with the current ones.
