@@ -5,7 +5,7 @@
   <img src="compare_with_codejudge.PNG" alt="Comparison between SE-Jury and CodeJudge" width="60%" />
 </div>
 
-As requested, we compared CodeJudge [1] and our SE-Jury on CodeJudge’s evaluation datasets: HumanEval-X, CoNaLa, and APPS.
+As suggested, we compared CodeJudge [1] and our SE-Jury on CodeJudge’s evaluation datasets: HumanEval-X, CoNaLa, and APPS.
 
 As shown in the table above, the results indicate that SE-Jury consistently outperforms CodeJudge, with statistically significant improvements validated by Wilcoxon tests.
 
