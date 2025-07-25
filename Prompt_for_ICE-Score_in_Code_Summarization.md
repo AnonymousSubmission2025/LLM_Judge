@@ -55,13 +55,13 @@ Content Adequacy (0-4)** The Content Adequacy is measured by assessing the exten
 
 Code Snippet:
 
-`{CODE}}`
+{CODE}}
 
 Reference Summary:
 
 {{REFERENCE}}
 
-Summary for Evaluation::
+Summary for Evaluation:
 
 {{GeneratedSummary}}
 
