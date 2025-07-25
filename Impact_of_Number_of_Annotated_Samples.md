@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="impact_of_number_of_annotated_samples.PNG" alt="Impact of Number of Annotated Samples" width="60%" />
+  <img src="impact_of_number_of_annotated_samples.PNG" alt="Impact of Number of Annotated Samples" width="70%" />
 </div>
 
 As requested, we assess the impact of varying the number of annotated examples. 
