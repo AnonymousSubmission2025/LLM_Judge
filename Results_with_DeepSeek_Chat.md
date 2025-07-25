@@ -5,7 +5,7 @@
 </div>
 
 <br>
-We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs provided by OpenAI, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o on HumanEval [1], making it a highly suitable choice.
+We can see that GPT-4o-mini is significantly more cost-effective than other latest LLMs provided by OpenAI, which is the main reason we chose it. Despite its much lower cost, GPT-4o-mini demonstrates strong coding performance comparable to GPT-4o (87.2% vs. 90.2% Accuracy in HumanEval) [1], making it a highly suitable choice.
 
 
 
